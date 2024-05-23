@@ -1,4 +1,3 @@
-import pytest
 from nbp_change import get_courses
 
 def test_get_courses(monkeypatch):
